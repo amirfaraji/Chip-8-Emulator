@@ -42,7 +42,7 @@ int main(){
             64, 32);
 
 
-    myC8.loadGame("./invaders.rom");
+    myC8.loadGame("./invaders.c8");
     
     long int frame_speed, start_time;
     SDL_Event event;
